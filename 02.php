@@ -27,6 +27,6 @@
     echo "O numero escolhido foi $n1 e a operação foi $o";
     echo "<br>O resultado foi $r";
 ?>
-<br><a href="aula10a.php">Voltar</a>
+<br><a href="01.php">Voltar</a>
 </body>
 </html>
