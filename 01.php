@@ -10,7 +10,7 @@
     </style>
 </head>
 <body>
-    <form method="get" action="aula10b.php">
+    <form method="get" action="02.php">
         Numero:   <input type="number" name="n1"><br>
         <fieldset><legend>Operação</legend>
             <input type="radio" name="oper" id="Dobro" value="1" checked>
